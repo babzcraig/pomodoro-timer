@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "Pomodoro application to increase focus and productivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "unit-test-app.js": "mocha app.js"
+  },
+  "author": "Babs Craig",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  }
+}

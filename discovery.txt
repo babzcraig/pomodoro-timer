@@ -1,0 +1,10 @@
+Pomodoro app should do a couple of things
+
+i. Should be able to countdown an x minutes session.
+ii. at the end of each x minute session update a tracker.
+iii. At the end of each session fire a new timer that will either be a short break or long break every 4th session
+iv. Should be able to pause the timer, hold state and resume when started again.
+v. Should be able to clear state completely.
+vi. Should be able to clear timer state but retain other state data
+vii. Should be able to store data to localStorage or indexDb.
+viii. Should have an alert event listener system to listen to events and fire alerts accordingly
